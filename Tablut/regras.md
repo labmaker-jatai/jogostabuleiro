@@ -42,13 +42,7 @@ Para padronizar a montagem, podemos identificar as colunas de A a I e as linhas 
 | Defensores | C5, D5, F5, G5, E3, E4, E6, E7                                 |
 | Atacantes  | D1, E1, F1, E2; D9, E9, F9, E8; A4, A5, A6, B5; I4, I5, I6, H5 |
 
-Essa distribuição coloca o rei no centro, os defensores em torno dele e os atacantes nas quatro direções.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://rules.moddable.games\&sz=32)
-
-Tafl+1
-
-
+Essa distribuição coloca o rei no centro, os defensores em torno dele e os atacantes nas quatro direções.
 
 ## 4. Quem começa
 
