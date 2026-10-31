@@ -1,4 +1,4 @@
-# Regras do jogo Alquerque
+# Alquerque
 
 O Alquerque é um jogo de tabuleiro estratégico para dois jogadores, considerado um dos antecessores de jogos de captura como a Dama. Seu objetivo é capturar todas as peças do adversário ou impedir que ele realize movimentos válidos.
 
