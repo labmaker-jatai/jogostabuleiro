@@ -178,13 +178,7 @@ As regras históricas do Tablut não estabelecem um único procedimento universa
 - Impossibilidade de movimentação: se um jogador não possuir nenhum movimento legal, a partida será declarada empatada.
 - Acordo entre jogadores: os dois jogadores podem concordar em encerrar a partida empatada quando não houver perspectiva razoável de vitória.
 
-A repetição tripla e essas condições de empate são regras complementares de organização, e não devem ser confundidas com regras universais de todas as versões históricas.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://aagenielsen.dk\&sz=32)
-
-aagenielsen.dk+1
-
-
+A repetição tripla e essas condições de empate são regras complementares de organização, e não devem ser confundidas com regras universais de todas as versões históricas.
 
 ## 14. Regras opcionais de aviso de fuga
 
