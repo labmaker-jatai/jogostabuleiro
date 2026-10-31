@@ -1,4 +1,4 @@
-# GIPF – Regras completas do jogo
+# GIPF
 
 Jogo abstrato de estratégia para dois jogadores | Autor: Kris Burm | Projeto GIPF
 
