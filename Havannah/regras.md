@@ -174,13 +174,7 @@ Não é necessário esperar o adversário realizar sua próxima jogada.
 
 Se o tabuleiro ficar completamente preenchido sem que nenhum jogador tenha conseguido formar uma estrutura vencedora, a partida termina empatada.
 
-O empate é uma possibilidade teórica, embora não seja o resultado habitual.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://newikis.com\&sz=32)
-
-newikis.com+2
-
-
+O empate é uma possibilidade teórica, embora não seja o resultado habitual.
 
 ## 9. Restrições e situações especiais
 
