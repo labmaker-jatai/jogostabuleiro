@@ -1,4 +1,4 @@
-# Regras completas do jogo HEX
+# HEX
 
 O HEX é um jogo estratégico de tabuleiro para dois jogadores, baseado na conexão de caminhos. Foi criado pelo matemático dinamarquês Piet Hein, em 1942, e desenvolvido independentemente pelo matemático John Nash, em 1948.
 
