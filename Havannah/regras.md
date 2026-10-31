@@ -132,13 +132,7 @@ A troca não é uma jogada adicional de colocação de pedra.
 
 Essa regra procura equilibrar a vantagem de quem realiza a primeira jogada.
 
-Importante: a regra da troca é uma regra opcional, não obrigatória em todas as versões do Havannah.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://mindsports.nl\&sz=32)
-
-mindsports.nl+2
-
-
+Importante: a regra da troca é uma regra opcional, não obrigatória em todas as versões do Havannah.
 
 ## 7. Conexões entre pedras
 
