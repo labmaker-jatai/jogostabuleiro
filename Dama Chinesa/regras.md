@@ -1,4 +1,4 @@
-# Regras do jogo de Damas Chinesas
+# Damas Chinesas
 
 ## 1. Objetivo do jogo
 
