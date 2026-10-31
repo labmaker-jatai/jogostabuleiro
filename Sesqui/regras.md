@@ -1,4 +1,4 @@
-# Regras completas do Jogo Sesqui
+# Sesqui
 
 O Sesqui é um jogo matemático de estratégia abstrata para dois jogadores, pertencente à família dos jogos de conexão. Seu nome vem do latim sesqui, que significa aproximadamente “um e meio” ou “mais metade”.
 
