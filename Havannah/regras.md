@@ -59,13 +59,7 @@ O funcionamento dos turnos é bastante simples:
 7. Nenhuma pedra pode ser capturada ou removida.
 8. Não é permitido colocar uma pedra em uma célula já ocupada, independentemente da cor da pedra existente.
 
-As pedras de cores diferentes não formam conexões entre si. Para construir uma estrutura vencedora, todas as pedras da conexão devem ser da mesma cor.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://mindsports.nl\&sz=32)
-
-mindsports.nl+2
-
-
+As pedras de cores diferentes não formam conexões entre si. Para construir uma estrutura vencedora, todas as pedras da conexão devem ser da mesma cor.
 
 ## 5. As três condições de vitória
 
