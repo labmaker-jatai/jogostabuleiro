@@ -1,4 +1,4 @@
-# Regras do Jogo Moinho (Trilha)
+# Moinho (Trilha)
 
 O Moinho, também conhecido como Trilha, é um jogo de estratégia para dois jogadores. O objetivo é formar alinhamentos de três peças, chamados moinhos, para retirar peças do adversário e reduzir sua capacidade de movimentação até deixá-lo sem condições de continuar a partida.
 
