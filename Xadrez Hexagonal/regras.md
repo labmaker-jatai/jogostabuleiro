@@ -27,9 +27,9 @@ Cada jogador começa com 18 peças:
 - 1 rei;
 - 1 dama;
 - 2 torres;
-- 2 bispos;
+- 3 bispos;
 - 2 cavalos;
-- 10 peões.
+- 9 peões.
 
 O posicionamento inicial é simétrico, com cada jogador ocupando seu lado do tabuleiro. A disposição exata das peças e a orientação das coordenadas devem seguir o diagrama oficial da variante escolhida.
 
