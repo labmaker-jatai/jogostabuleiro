@@ -1,4 +1,4 @@
-# Agon — conjunto completo de regras
+# Agon
 
 Agon, também conhecido como Queen's Guard (Guarda da Rainha) ou Royal Guards, é um jogo abstrato de estratégia para dois jogadores. Sua origem é associada à França e à Inglaterra do século XVIII, tendo sido documentado em publicações inglesas no século XIX.
 
