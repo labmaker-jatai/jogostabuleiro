@@ -38,12 +38,10 @@ Os arquivos de fabricação digital estão organizados de acordo com cada projet
 - **`.SVG`** — arquivo vetorial para edição e utilização em softwares de desenho e fabricação digital.
 - **`.DXF`** — formato vetorial amplamente utilizado em softwares CAD e em processos de corte a laser e usinagem CNC.
 - **`.WCVR`** — arquivo compatível com o software AutoLaser, utilizado em máquinas de corte a laser equipadas com controladoras TopWisdom.
-- **`.STL`** — formato de modelo tridimensional utilizado em processos de impressão 3D, quando disponível.
 
 O repositório também contém:
 
 - **`README.md`** — apresentação geral do projeto.
-- **`REGRAS.md`** — documentação complementar com informações sobre as regras dos jogos.
 
 A disponibilidade dos formatos pode variar conforme o jogo. Consulte a pasta correspondente para identificar os arquivos disponíveis para cada projeto.
 
