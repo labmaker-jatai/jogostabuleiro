@@ -1,4 +1,4 @@
-# HAVANNAH — Regras completas do jogo
+# HAVANNAH
 
 O Havannah é um jogo abstrato de estratégia para dois jogadores, criado pelo matemático e designer de jogos holandês Christian Freeling, por volta de 1976–1980.
 
