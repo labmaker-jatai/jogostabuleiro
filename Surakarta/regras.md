@@ -1,4 +1,4 @@
-# Regras completas do Jogo Surakarta
+# Surakarta
 
 O Surakarta é um jogo de estratégia abstrata para dois jogadores, originário da ilha de Java, na Indonésia. Seu nome está associado à cidade de Surakarta (Solo).
 
