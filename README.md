@@ -37,6 +37,7 @@ Os arquivos de fabricação digital estão organizados de acordo com cada projet
 
 - **`.SVG`** — arquivo vetorial para edição e utilização em softwares de desenho e fabricação digital.
 - **`.DXF`** — formato vetorial amplamente utilizado em softwares CAD e em processos de corte a laser e usinagem CNC.
+- **`.JPG`** — imagens dos tabuleiros.
 - **`.WCVR`** — arquivo compatível com o software AutoLaser, utilizado em máquinas de corte a laser equipadas com controladoras TopWisdom.
 
 O repositório também contém:
