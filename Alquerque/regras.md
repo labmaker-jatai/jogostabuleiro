@@ -34,12 +34,6 @@ Capturar todas as peças do adversário ou deixá-lo sem possibilidade de realiz
 
 Essa disposição é a configuração tradicional de 24 peças, também conhecida como Alquerque de doze.&#x20;
 
-[image](https://www.google.com/s2/favicons?domain=https://omerkel.github.io\&sz=32)
-
-omerkel.github.io+1
-
-
-
 ## 5. Movimentação das peças
 
 Os jogadores alternam suas jogadas. Em cada turno, o jogador movimenta uma única peça.
@@ -70,12 +64,6 @@ A captura pode ser realizada horizontalmente, verticalmente ou diagonalmente, de
 
 Importante: não é permitido capturar uma peça própria, saltar sobre duas peças simultaneamente ou saltar para um ponto ocupado.&#x20;
 
-[image](https://www.google.com/s2/favicons?domain=https://omerkel.github.io\&sz=32)
-
-omerkel.github.io+2
-
-
-
 ## 6. Capturas obrigatórias
 
 - Se existir alguma possibilidade de captura, o jogador é obrigado a realizar uma captura.
@@ -88,12 +76,6 @@ Penalidade por não capturar (regra do sopro ou huffing):
 Na regra tradicional que utiliza essa penalidade, se um jogador deixar de realizar uma captura disponível, o adversário poderá retirar do tabuleiro a peça que deixou de capturar.
 
 Essa penalidade é uma regra histórica que pode ser adotada em conjunto com a obrigatoriedade da captura. Em versões modernas, a captura obrigatória já é suficiente, sem necessidade dessa penalidade.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://nrich.maths.org\&sz=32)
-
-NRich+1
-
-
 
 ## 7. Capturas múltiplas
 
@@ -112,10 +94,6 @@ As regras são:
 Se houver diferentes sequências possíveis, o jogador poderá escolher o caminho que desejar. Na versão aqui adotada, não é obrigatório escolher a sequência que capture o maior número de peças.
 
 Não é permitido retornar imediatamente sobre o ponto que acabou de ser deixado durante uma sequência de capturas.
-
-[image](https://www.google.com/s2/favicons?domain=https://omerkel.github.io\&sz=32)
-
-omerkel.github.io+2
 
 ## 8. Restrições adicionais
 
@@ -136,12 +114,6 @@ Um jogador vence quando ocorre uma das seguintes situações:
 
 Não é necessário capturar todas as peças para vencer. O bloqueio também determina a vitória.&#x20;
 
-[image](https://www.google.com/s2/favicons?domain=https://omerkel.github.io\&sz=32)
-
-omerkel.github.io+1
-
-
-
 ## 10. Condições de empate
 
 A partida pode terminar empatada nas seguintes situações:
@@ -150,13 +122,7 @@ A partida pode terminar empatada nas seguintes situações:
 - Ambos possuem a mesma quantidade de peças e concordam em encerrar a partida.
 - Os jogadores estabelecem previamente uma regra de empate por repetição de posições ou por um número determinado de jogadas sem capturas.
 
-A possibilidade de empate por acordo é encontrada em descrições tradicionais do jogo.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://casaalquerque.com\&sz=32)
-
-Casa Alquerque+1
-
-
+A possibilidade de empate por acordo é encontrada em descrições tradicionais do jogo.
 
 ## 11. Variações das regras
 
@@ -174,10 +140,6 @@ Para evitar divergências durante uma partida, é importante estabelecer previam
 | Promoção                      | Não existe                                   | Algumas variantes estabelecem regras adicionais |
 | Retorno ao ponto anterior     | Permitido                                    | Algumas versões proíbem o retorno imediato      |
 | Empate                        | Por acordo ou regra previamente estabelecida | Algumas versões estabelecem limites de jogadas  |
-
-[image](https://www.google.com/s2/favicons?domain=https://omerkel.github.io\&sz=32)
-
-omerkel.github.io+3
 
 ## 12. Resumo das regras fundamentais
 
@@ -203,6 +165,4 @@ Estas são algumas fontes utilizadas para compilar as regras:
 - [NRICH – University of Cambridge: Alquerque](https://nrich.maths.org/games/alquerque?utm_source=chatgpt.com) — regras e atividades matemáticas.
 - [Casa Alquerque – O jogo Alquerque](https://casaalquerque.com/o-jogo-alquerque/?utm_source=chatgpt.com) — descrição de regras tradicionais em português.
 - [Alquerque – Oliver Merkel](https://omerkel.github.io/Alquerque/html5/src/?utm_source=chatgpt.com) — implementação digital com regras detalhadas e diferentes opções.
-- [MEI – Maths Games from Around the World](https://meirezblobs.blob.core.windows.net/c2393add-4d6f-4dfc-7638-08dcacb84180/A_Maths-Games-from-around-the-World-Handouts.pdf?utm_source=chatgpt.com) — material didático com instruções do jogo.
-
-Observação para utilização no projeto LabMaker Jataí: recomendo adotar as regras descritas neste regulamento como padrão para a coleção de jogos. Isso proporciona uma versão consistente, com 12 peças por jogador, captura obrigatória, capturas múltiplas e vitória por eliminação ou bloqueio.
+- [MEI – Maths Games from Around the World](https://meirezblobs.blob.core.windows.net/c2393add-4d6f-4dfc-7638-08dcacb84180/A_Maths-Games-from-around-the-World-Handouts.pdf?utm_source=chatgpt.com) — material didático com instruções do jogo.para utilização no projeto LabMaker Jataí: recomendo adotar as regras descritas neste regulamento como padrão para a coleção de jogos. Isso proporciona uma versão consistente, com 12 peças por jogador, captura obrigatória, capturas múltiplas e vitória por eliminação ou bloqueio.
