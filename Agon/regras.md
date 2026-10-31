@@ -69,12 +69,6 @@ Alternativa de preparação: os participantes podem combinar outra modalidade de
 
 Essa segunda modalidade é uma variante histórica documentada na publicação The Book of Indoor Games for Boys and Girls, de 1866.&#x20;
 
-[image](https://www.google.com/s2/favicons?domain=https://www.marianotomatis.it\&sz=32)
-
-marianotomatis.it+1
-
-
-
 ## 5. Determinação de quem começa
 
 Os jogadores decidem quem fará o primeiro movimento.
