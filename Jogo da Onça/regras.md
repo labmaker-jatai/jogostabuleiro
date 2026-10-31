@@ -1,4 +1,4 @@
-# Jogo da Onça – Regras completas
+# Jogo da Onça
 
 O Jogo da Onça é um jogo de estratégia tradicional indígena, conhecido também como Adugo. É praticado por diferentes povos indígenas brasileiros e representa uma disputa entre uma onça e um grupo de cães (ou cachorros).
 
