@@ -113,13 +113,7 @@ Regras:
 
 Condição de vitória: construir um circuito fechado de pedras próprias que envolva pelo menos uma célula.
 
-Uma observação importante: não é necessário que o interior do anel esteja vazio. Basta que exista uma região interna delimitada pela conexão.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://mindsports.nl\&sz=32)
-
-mindsports.nl+2
-
-
+Uma observação importante: não é necessário que o interior do anel esteja vazio. Basta que exista uma região interna delimitada pela conexão.
 
 ## 6. Regra da troca (Pie Rule ou Swap Rule)
 
