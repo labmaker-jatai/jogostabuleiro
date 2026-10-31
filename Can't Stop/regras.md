@@ -253,10 +253,6 @@ A probabilidade de cada resultado é:
 
 Probabilidade das somas de dois dados
 
-Frequência percentual de cada resultado possível.
-
-0%5%10%15%20%23456789101112
-
 Algumas recomendações estratégicas:
 
 - Priorize as colunas 6, 7 e 8: são as somas mais frequentes.
