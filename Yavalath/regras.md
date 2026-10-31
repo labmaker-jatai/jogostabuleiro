@@ -1,4 +1,4 @@
-# Yavalath – Regras completas
+# Yavalath
 
 Yavalath é um jogo abstrato de estratégia para dois ou três jogadores, criado em 2007 pelo pesquisador Cameron Browne, por meio do programa de geração automática de jogos LUDI.
 
