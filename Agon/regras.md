@@ -95,10 +95,6 @@ Restrição importante: somente as rainhas podem ocupar o Trono. Os guardas nunc
 
 A movimentação lateral permite que as peças mudem de posição sem necessariamente se aproximar do centro. Entretanto, uma vez que uma peça avança para um anel interior, não pode retornar voluntariamente a um anel exterior.
 
-[image](https://www.google.com/s2/favicons?domain=https://a4gamescompany.wordpress.com\&sz=32)
-
-a4gamescompany.wordpress.com+2
-
 ## 7. Captura de peças
 
 A captura em Agon acontece quando uma peça fica posicionada entre duas peças adversárias, formando uma linha reta.
@@ -149,10 +145,6 @@ Nesse caso:
 - Quando houver vários guardas capturados, o proprietário poderá escolher a ordem de recolocação.
 
 Portanto, capturar várias peças pode obrigar o adversário a desperdiçar vários turnos apenas para reorganizar suas forças.
-
-[image](https://www.google.com/s2/favicons?domain=https://a4gamescompany.wordpress.com\&sz=32)
-
-a4gamescompany.wordpress.com+2
 
 ## 8. Restrições relacionadas à captura
 
