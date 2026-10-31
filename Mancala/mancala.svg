@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="mancala.svg"
+   inkscape:export-filename="mancala.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="124.80434"
+     inkscape:cy="106.06601"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#ffffffff" />
+  <defs
+     id="defs1">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern181"
+       id="pattern182"
+       patternTransform="matrix(0.1,0,0,0.1,76.218461,373.73705)"
+       x="0"
+       y="0"
+       preserveAspectRatio="xMidYMid" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="15.021545"
+       height="25.90893"
+       patternTransform="translate(76.218461,373.73705)"
+       style="fill:#000000"
+       id="pattern181"
+       inkscape:label="Tiles 1"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <path
+         id="path180"
+         style="opacity:1;stroke-width:4.85611;stroke-linecap:square;paint-order:stroke markers fill;stop-color:#000000"
+         d="M 7.510773,0 15.021545,12.95447 7.51077,25.90893 0,12.95447 Z"
+         sodipodi:nodetypes="ccccc" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern179"
+       id="pattern180"
+       patternTransform="matrix(0.1,0,0,0.1,76.218461,373.73705)"
+       x="0"
+       y="0"
+       preserveAspectRatio="xMidYMid" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="15.021545"
+       height="25.90893"
+       patternTransform="translate(76.218461,373.73705)"
+       style="fill:#000000"
+       id="pattern179"
+       inkscape:label="Tiles 1"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <path
+         id="path178"
+         style="opacity:1;stroke-width:4.85611;stroke-linecap:square;paint-order:stroke markers fill;stop-color:#000000"
+         d="M 7.510773,0 15.021545,12.95447 7.51077,25.90893 0,12.95447 Z"
+         sodipodi:nodetypes="ccccc" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern177"
+       id="pattern178"
+       patternTransform="matrix(0.1,0,0,0.1,76.218461,373.73705)"
+       x="0"
+       y="0"
+       preserveAspectRatio="xMidYMid" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="15.021545"
+       height="25.90893"
+       patternTransform="translate(76.218461,373.73705)"
+       style="fill:#000000"
+       id="pattern177"
+       inkscape:label="Tiles 1"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <path
+         id="path176"
+         style="opacity:1;stroke-width:4.85611;stroke-linecap:square;paint-order:stroke markers fill;stop-color:#000000"
+         d="M 7.510773,0 15.021545,12.95447 7.51077,25.90893 0,12.95447 Z"
+         sodipodi:nodetypes="ccccc" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern175"
+       id="pattern176"
+       patternTransform="matrix(0.1,0,0,0.1,76.218461,373.73705)"
+       x="0"
+       y="0"
+       preserveAspectRatio="xMidYMid" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="15.021545"
+       height="25.90893"
+       patternTransform="translate(76.218461,373.73705)"
+       style="fill:#000000"
+       id="pattern175"
+       inkscape:label="Tiles 1"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <path
+         id="path174"
+         style="opacity:1;stroke-width:4.85611;stroke-linecap:square;paint-order:stroke markers fill;stop-color:#000000"
+         d="M 7.510773,0 15.021545,12.95447 7.51077,25.90893 0,12.95447 Z"
+         sodipodi:nodetypes="ccccc" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern173"
+       id="pattern174"
+       patternTransform="matrix(0.1,0,0,0.1,76.218461,373.73705)"
+       x="0"
+       y="0"
+       preserveAspectRatio="xMidYMid" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="15.021545"
+       height="25.90893"
+       patternTransform="translate(76.218461,373.73705)"
+       style="fill:#000000"
+       id="pattern173"
+       inkscape:label="Tiles 1"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <path
+         id="path172"
+         style="opacity:1;stroke-width:4.85611;stroke-linecap:square;paint-order:stroke markers fill;stop-color:#000000"
+         d="M 7.510773,0 15.021545,12.95447 7.51077,25.90893 0,12.95447 Z"
+         sodipodi:nodetypes="ccccc" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern171"
+       id="pattern172"
+       patternTransform="matrix(0.1,0,0,0.1,76.218461,373.73705)"
+       x="0"
+       y="0"
+       preserveAspectRatio="xMidYMid" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="15.021545"
+       height="25.90893"
+       patternTransform="translate(76.218461,373.73705)"
+       style="fill:#000000"
+       id="pattern171"
+       inkscape:label="Tiles 1"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <path
+         id="path170"
+         style="opacity:1;stroke-width:4.85611;stroke-linecap:square;paint-order:stroke markers fill;stop-color:#000000"
+         d="M 7.510773,0 15.021545,12.95447 7.51077,25.90893 0,12.95447 Z"
+         sodipodi:nodetypes="ccccc" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#tiles-1"
+       id="pattern170"
+       patternTransform="matrix(0.1,0,0,0.1,76.218461,373.73705)"
+       x="0"
+       y="0"
+       preserveAspectRatio="xMidYMid" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="15.021545"
+       height="25.90893"
+       patternTransform="translate(76.218461,373.73705)"
+       style="fill:#000000"
+       id="tiles-1"
+       inkscape:label="Tiles 1"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <path
+         id="path5144"
+         style="opacity:1;stroke-width:4.85611;stroke-linecap:square;paint-order:stroke markers fill;stop-color:#000000"
+         d="M 7.510773,0 15.021545,12.95447 7.51077,25.90893 0,12.95447 Z"
+         sodipodi:nodetypes="ccccc" />
+    </pattern>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath168">
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect168"
+         width="46.19186"
+         height="80.006783"
+         x="74.999985"
+         y="399.99661" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath166">
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect166"
+         width="46.19186"
+         height="80.006783"
+         x="74.999985"
+         y="399.99661" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath33">
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect33"
+         width="46.19186"
+         height="80.006783"
+         x="74.999985"
+         y="399.99661" />
+    </clipPath>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#DiamondPlate"
+       preserveAspectRatio="xMidYMid"
+       id="pattern155"
+       patternTransform="matrix(0.07071068,0.07071068,-0.07071068,0.07071068,0,0)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#DiamondPlate"
+       preserveAspectRatio="xMidYMid"
+       id="pattern154"
+       patternTransform="matrix(0.07071068,0.07071068,-0.07071068,0.07071068,0,0)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#DiamondPlate"
+       preserveAspectRatio="xMidYMid"
+       id="pattern153"
+       patternTransform="matrix(0.07071068,0.07071068,-0.07071068,0.07071068,0,0)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#DiamondPlate"
+       preserveAspectRatio="xMidYMid"
+       id="pattern152"
+       patternTransform="matrix(0.07071068,0.07071068,-0.07071068,0.07071068,0,0)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#DiamondPlate"
+       preserveAspectRatio="xMidYMid"
+       id="pattern151"
+       patternTransform="matrix(0.07071068,0.07071068,-0.07071068,0.07071068,0,0)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#DiamondPlate"
+       preserveAspectRatio="xMidYMid"
+       id="pattern150"
+       patternTransform="matrix(0.07071068,0.07071068,-0.07071068,0.07071068,0,0)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#DiamondPlate"
+       preserveAspectRatio="xMidYMid"
+       id="pattern149"
+       patternTransform="matrix(0.07071068,0.07071068,-0.07071068,0.07071068,0,0)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="83"
+       height="84"
+       preserveAspectRatio="xMidYMid"
+       id="DiamondPlate"
+       inkscape:stockid="Diamond Plate"
+       style="fill:#000000"
+       patternTransform="matrix(0.35355339,0.35355339,-0.35355339,0.35355339,0,0)"
+       x="0"
+       y="0"
+       inkscape:label="Diamondplate"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <path
+         id="rect22"
+         style="fill-opacity:1;stroke:none"
+         d="m 29.441406,0 c -0.485427,1.590892 -0.802734,3.4057 -0.802734,5.466797 0,5.423014 2.298575,9.285029 3.939453,11.560547 1.640878,-2.275518 3.939453,-6.137533 3.939453,-11.560547 0,-2.061091 -0.315357,-3.875908 -0.800781,-5.466797 z m 42,0 c -0.485427,1.590892 -0.802734,3.4057 -0.802734,5.466797 0,5.423014 2.298575,9.285029 3.939453,11.560547 1.640878,-2.275518 3.939453,-6.137533 3.939453,-11.560547 C 78.517578,3.405706 78.202221,1.590889 77.716797,0 Z M 11.578125,1.527344 c -5.423017,0 -9.283074,2.29858 -11.558594,3.939453 2.27552,1.640874 6.135577,3.939453 11.558594,3.939453 5.451291,0 9.197845,-2.20152 11.560547,-3.939453 C 20.77597,3.728865 17.029416,1.527344 11.578125,1.527344 Z m 42,0 c -5.423019,0 -9.283075,2.29858 -11.558594,3.939453 2.275519,1.640874 6.135575,3.939453 11.558594,3.939453 5.451291,0 9.197845,-2.20152 11.560547,-3.939453 C 62.77597,3.728865 59.029416,1.527344 53.578125,1.527344 Z m -42,13.378906 C 9.840198,17.268958 7.638672,21.0155 7.638672,26.4668 c 0,5.42301 2.298575,9.28503 3.939453,11.56054 1.640878,-2.27551 3.939453,-6.13753 3.939453,-11.56054 0,-5.4513 -2.201525,-9.197842 -3.939453,-11.56055 z m 42,0 c -1.737928,2.362708 -3.939453,6.10925 -3.939453,11.56055 0,5.42301 2.298575,9.28503 3.939453,11.56054 1.640878,-2.27551 3.939453,-6.13753 3.939453,-11.56054 0,-5.4513 -2.201525,-9.197842 -3.939453,-11.56055 z m -21,7.62109 c -5.423019,0 -9.283075,2.29858 -11.558594,3.93946 2.275519,1.64087 6.135575,3.93945 11.558594,3.93945 5.451291,0 9.197845,-2.20152 11.560547,-3.93945 -2.362702,-1.73793 -6.109256,-3.93946 -11.560547,-3.93946 z m 41,0 c -5.423015,0 -9.283076,2.29858 -11.558594,3.93946 2.275518,1.64087 6.135579,3.93945 11.558594,3.93945 4.031903,0 7.125505,-1.20476 9.421875,-2.53516 V 25.0625 C 80.70363,23.7321 77.610028,22.52734 73.578125,22.52734 Z M 0,25.0625 v 2.80859 C 0.808414,27.40274 1.523479,26.91931 2.138672,26.4668 1.523479,26.01428 0.808414,25.53085 0,25.0625 Z m 32.578125,10.84375 c -1.737928,2.36271 -3.939453,6.10925 -3.939453,11.56055 0,5.42301 2.298575,9.28503 3.939453,11.56054 1.640878,-2.27551 3.939453,-6.13753 3.939453,-11.56054 0,-5.4513 -2.201525,-9.19784 -3.939453,-11.56055 z m 42,0 c -1.737928,2.36271 -3.939453,6.10925 -3.939453,11.56055 0,5.42301 2.298575,9.28503 3.939453,11.56054 1.640878,-2.27551 3.939453,-6.13753 3.939453,-11.56054 0,-5.4513 -2.201525,-9.19784 -3.939453,-11.56055 z m -63,7.62109 c -5.423018,0 -9.283075,2.29858 -11.558594,3.93946 2.275519,1.64087 6.135576,3.93945 11.558594,3.93945 5.451291,0 9.197845,-2.20152 11.560547,-3.93945 -2.362702,-1.73793 -6.109256,-3.93946 -11.560547,-3.93946 z m 42,0 c -5.423019,0 -9.283075,2.29858 -11.558594,3.93946 2.275519,1.64087 6.135575,3.93945 11.558594,3.93945 5.451291,0 9.197845,-2.20152 11.560547,-3.93945 -2.362702,-1.73793 -6.109256,-3.93946 -11.560547,-3.93946 z m -42,13.37891 C 9.840198,59.26896 7.638672,63.0155 7.638672,68.4668 c 0,5.42301 2.298575,9.28503 3.939453,11.56054 1.640878,-2.27551 3.939453,-6.13753 3.939453,-11.56054 0,-5.4513 -2.201525,-9.19784 -3.939453,-11.56055 z m 42,0 c -1.737928,2.36271 -3.939453,6.10925 -3.939453,11.56055 0,5.42301 2.298575,9.28503 3.939453,11.56054 1.640878,-2.27551 3.939453,-6.13753 3.939453,-11.56054 0,-5.4513 -2.201525,-9.19784 -3.939453,-11.56055 z m -21,7.62109 c -5.423019,0 -9.283075,2.29858 -11.558594,3.93946 2.275519,1.64087 6.135575,3.93945 11.558594,3.93945 5.451291,0 9.197845,-2.20152 11.560547,-3.93945 -2.362702,-1.73793 -6.109256,-3.93946 -11.560547,-3.93946 z m 41,0 c -5.423015,0 -9.283076,2.29858 -11.558594,3.93946 2.275518,1.64087 6.135579,3.93945 11.558594,3.93945 4.031903,0 7.125505,-1.20476 9.421875,-2.53516 V 67.0625 C 80.70363,65.7321 77.610028,64.52734 73.578125,64.52734 Z M 0,67.0625 v 2.80859 C 0.808414,69.40274 1.523479,68.91931 2.138672,68.4668 1.523479,68.01428 0.808414,67.53085 0,67.0625 Z M 32.578125,77.90625 C 31.497295,79.37563 30.239861,81.38322 29.441406,84 h 6.275391 c -0.798455,-2.61679 -2.05784,-4.62436 -3.138672,-6.09375 z m 42,0 C 73.497295,79.37563 72.239861,81.38322 71.441406,84 h 6.275391 c -0.798455,-2.61679 -2.05784,-4.62436 -3.138672,-6.09375 z" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5-6"
+       preserveAspectRatio="none"
+       id="pattern147"
+       patternTransform="matrix(0.1,0,0,0.1,525,250)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern146"
+       patternTransform="matrix(0.1,0,0,0.1,525,250)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern145"
+       patternTransform="matrix(0.1,0,0,0.1,525,250)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern144"
+       patternTransform="matrix(0.1,0,0,0.1,525,250)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5-6"
+       preserveAspectRatio="none"
+       id="pattern143"
+       patternTransform="matrix(0.1,0,0,0.1,525,250)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern142"
+       patternTransform="matrix(0.1,0,0,0.1,525,250)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern141"
+       patternTransform="matrix(0.1,0,0,0.1,525,250)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20"
+       patternTransform="translate(525,250)"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="pattern5-6"
+       inkscape:label="Grid 1"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <path
+         id="path1-2-7-2"
+         style="display:inline;stroke-width:4.8561;stroke-linecap:square;paint-order:stroke markers fill;stop-color:#000000"
+         d="m 10,10 v 5 l 5,5 h 5 V 15 L 15,10 Z M 0,20 v -5 l 5,-5 h 5 v 5 L 5,20 Z M 10,10 V 5 l 5,-5 h 5 v 5 l -5,5 z M 0,0 v 5 l 5,5 h 5 V 5 L 5,0 Z" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones"
+       preserveAspectRatio="xMidYMid"
+       id="pattern112"
+       patternTransform="scale(0.1)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones"
+       preserveAspectRatio="xMidYMid"
+       id="pattern111"
+       patternTransform="scale(0.1)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones"
+       preserveAspectRatio="xMidYMid"
+       id="pattern110"
+       patternTransform="scale(0.1)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones"
+       preserveAspectRatio="xMidYMid"
+       id="pattern109"
+       patternTransform="scale(0.1)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones"
+       preserveAspectRatio="xMidYMid"
+       id="pattern108"
+       patternTransform="scale(0.1)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones"
+       preserveAspectRatio="xMidYMid"
+       id="pattern107"
+       patternTransform="scale(0.1)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones"
+       preserveAspectRatio="xMidYMid"
+       id="pattern106"
+       patternTransform="scale(0.1)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath98">
+      <path
+         id="path98"
+         style="stroke-width:0.1;stroke-linecap:square;paint-order:markers fill stroke;stop-color:#000000"
+         d="m -880.82767,-187.29769 h 1640.84 v 73.28155 h -1640.84 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath52">
+      <path
+         id="path52"
+         style="stroke-width:0.1;stroke-linecap:square;paint-order:markers fill stroke;stop-color:#000000"
+         d="m -880.82767,-187.29769 h 1640.84 v 73.28155 h -1640.84 z" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1"
+       transform="matrix(1.0007667,0,0,1.0007667,-79.673926,-133.48806)">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-stretch:condensed;font-size:7.50387px;font-family:'Open Sans Condensed';-inkscape-font-specification:'Open Sans Condensed,  Bold Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.455801"
+         x="129.52512"
+         y="139.08698"
+         id="text74"><tspan
+           sodipodi:role="line"
+           id="tspan74"
+           style="fill:#000000;stroke:none;stroke-width:0.455801"
+           x="129.52512"
+           y="139.08698">Mancala</tspan></text>
+      <rect
+         style="fill:url(#pattern111);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use58"
+         width="10"
+         height="10"
+         x="151.1978"
+         y="-174.0732"
+         transform="rotate(90)" />
+      <rect
+         style="fill:url(#pattern110);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use60"
+         width="10"
+         height="10"
+         x="162.52779"
+         y="-174.0732"
+         transform="rotate(90)" />
+      <rect
+         style="fill:url(#pattern109);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use62"
+         width="10"
+         height="10"
+         x="173.8578"
+         y="-174.0732"
+         transform="rotate(90)" />
+      <rect
+         style="fill:url(#pattern112);fill-opacity:1;stroke:#000000;stroke-width:0.352994"
+         id="rect74"
+         width="32.607006"
+         height="32.607006"
+         x="151.22429"
+         y="-162.95296"
+         transform="rotate(90)" />
+      <rect
+         style="fill:url(#pattern178);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use58-1"
+         width="10"
+         height="10"
+         x="130.31946"
+         y="140.10406" />
+      <rect
+         style="fill:url(#pattern180);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use60-2"
+         width="10"
+         height="10"
+         x="141.64946"
+         y="140.10406" />
+      <rect
+         style="fill:url(#pattern182);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use62-7"
+         width="10"
+         height="10"
+         x="152.97948"
+         y="140.10406" />
+      <rect
+         style="fill:url(#pattern174);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use58-2"
+         width="10"
+         height="10"
+         x="96.169701"
+         y="140.104" />
+      <rect
+         style="fill:url(#pattern170);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use60-6"
+         width="10"
+         height="10"
+         x="107.49969"
+         y="140.104" />
+      <rect
+         style="fill:url(#pattern176);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use62-1"
+         width="10"
+         height="10"
+         x="118.82971"
+         y="140.104" />
+      <rect
+         style="fill:url(#pattern172);fill-opacity:1;stroke:#000000;stroke-width:0.352994"
+         id="rect74-8"
+         width="32.607006"
+         height="32.607006"
+         x="96.196198"
+         y="151.22426" />
+      <rect
+         style="fill:url(#pattern153);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use58-1-9"
+         width="10"
+         height="10"
+         x="-183.85774"
+         y="85.075966"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#pattern154);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use60-2-2"
+         width="10"
+         height="10"
+         x="-172.52774"
+         y="85.075966"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#pattern155);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use62-7-0"
+         width="10"
+         height="10"
+         x="-161.19772"
+         y="85.075966"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#pattern150);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use58-28"
+         width="10"
+         height="10"
+         x="-218.00755"
+         y="85.075966"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#pattern151);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use60-9"
+         width="10"
+         height="10"
+         x="-206.67757"
+         y="85.075966"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#pattern152);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use62-73"
+         width="10"
+         height="10"
+         x="-195.34755"
+         y="85.075966"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#pattern149);fill-opacity:1;stroke:#000000;stroke-width:0.352994"
+         id="rect74-6"
+         width="32.607006"
+         height="32.607006"
+         x="-217.98106"
+         y="96.196213"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:url(#pattern144);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use58-1-2"
+         width="10"
+         height="10"
+         x="-128.82971"
+         y="-229.10129"
+         transform="scale(-1)" />
+      <rect
+         style="fill:url(#pattern143);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use60-2-9"
+         width="10"
+         height="10"
+         x="-117.49971"
+         y="-229.10129"
+         transform="scale(-1)" />
+      <rect
+         style="fill:url(#pattern142);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use62-7-3"
+         width="10"
+         height="10"
+         x="-106.16969"
+         y="-229.10129"
+         transform="scale(-1)" />
+      <rect
+         style="fill:url(#pattern147);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use58-2-4"
+         width="10"
+         height="10"
+         x="-162.97946"
+         y="-229.10135"
+         transform="scale(-1)" />
+      <rect
+         style="fill:url(#pattern146);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use60-6-7"
+         width="10"
+         height="10"
+         x="-151.64948"
+         y="-229.10135"
+         transform="scale(-1)" />
+      <rect
+         style="fill:url(#pattern145);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use62-1-8"
+         width="10"
+         height="10"
+         x="-140.31946"
+         y="-229.10135"
+         transform="scale(-1)" />
+      <rect
+         style="fill:url(#pattern141);fill-opacity:1;stroke:#000000;stroke-width:0.352994"
+         id="rect74-8-4"
+         width="32.607006"
+         height="32.607006"
+         x="-162.95296"
+         y="-217.98109"
+         transform="scale(-1)" />
+      <rect
+         style="fill:url(#pattern108);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use58-1-9-0"
+         width="10"
+         height="10"
+         x="185.34761"
+         y="-174.0732"
+         transform="rotate(90)" />
+      <rect
+         style="fill:url(#pattern107);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use60-2-2-3"
+         width="10"
+         height="10"
+         x="196.67761"
+         y="-174.0732"
+         transform="rotate(90)" />
+      <rect
+         style="fill:url(#pattern106);fill-opacity:1;stroke:#000000;stroke-width:0.3"
+         id="use62-7-0-6"
+         width="10"
+         height="10"
+         x="208.00763"
+         y="-174.0732"
+         transform="rotate(90)" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-stretch:condensed;font-size:3.26409px;font-family:'Open Sans Condensed';-inkscape-font-specification:'Open Sans Condensed,  Bold Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.198268"
+         x="129.5977"
+         y="232.52504"
+         id="text77"
+         inkscape:export-filename="text77.png"
+         inkscape:export-xdpi="291.26996"
+         inkscape:export-ydpi="291.26996"><tspan
+           sodipodi:role="line"
+           id="tspan77"
+           style="fill:#000000;stroke:none;stroke-width:0.198268"
+           x="129.5977"
+           y="232.52504">@labmaker.jatai</tspan></text>
+    </g>
+  </g>
+</svg>
