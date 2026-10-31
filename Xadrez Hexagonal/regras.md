@@ -154,10 +154,6 @@ A notação exata pode variar entre publicações e plataformas, por isso é rec
 | Geometria do cavalo  | Até 8 destinos          | Até 12 destinos                      |
 | Afogamento           | Empate                  | Pontuação especial na regra original |
 
-[image](https://www.google.com/s2/favicons?domain=https://k15z.github.io\&sz=32)
-
-k15z.github.io+2
-
 ## 12. Referências para consulta
 
 - [Hexagonal Chess Rules — regras e movimentos ilustrados](https://hexchess.plyyard.com/rules/?utm_source=chatgpt.com).
