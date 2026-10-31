@@ -23,13 +23,7 @@ Dimensões do tabuleiro:
 | Pequena (base 8) | 8                | 169              |
 | Grande (base 10) | 10               | 271              |
 
-O tabuleiro de base 8 é adequado para iniciantes. O de base 10 é bastante utilizado por jogadores experientes.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://boardgamegeek.com\&sz=32)
-
-BoardGameGeek+2
-
-
+O tabuleiro de base 8 é adequado para iniciantes. O de base 10 é bastante utilizado por jogadores experientes.
 
 ## 2. Objetivo
 
