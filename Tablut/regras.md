@@ -1,4 +1,4 @@
-# Regras completas do jogo Tablut
+# Tablut
 
 O Tablut é um jogo de estratégia abstrata para dois jogadores, pertencente à família de jogos Tafl, tradicionalmente associados aos povos do norte da Europa. O jogo opõe um pequeno grupo de defensores, liderado por um rei, a um exército numericamente superior de atacantes.
 
