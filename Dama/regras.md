@@ -1,4 +1,4 @@
-# Regras do jogo de Damas
+# Damas
 
 O jogo de Damas é um jogo de estratégia para duas pessoas, cujo objetivo é capturar todas as peças do adversário ou deixá-lo sem movimentos legais.
 
