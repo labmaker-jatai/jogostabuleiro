@@ -95,13 +95,7 @@ Atenção: esta última regra é muito importante.
 
 Uma pedra colocada exatamente em um canto não pode ser considerada uma pedra pertencente aos dois lados adjacentes para efeito de formação de um garfo.
 
-Condição de vitória: conectar três lados distintos do tabuleiro, sem utilizar os cantos como parte desses lados.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://mindsports.nl\&sz=32)
-
-mindsports.nl+2
-
-
+Condição de vitória: conectar três lados distintos do tabuleiro, sem utilizar os cantos como parte desses lados.
 
 ### 5.3. Anel (Ring)
 
