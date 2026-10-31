@@ -1,4 +1,4 @@
-# Can't Stop – Regras completas do jogo
+# Can't Stop
 
 Can't Stop é um jogo de tabuleiro criado por Sid Sackson, publicado originalmente em 1980. É um jogo de dados que combina probabilidade, estratégia e gerenciamento de riscos (push your luck).
 
