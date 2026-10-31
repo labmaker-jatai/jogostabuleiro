@@ -1,4 +1,4 @@
-# Regras do Ludo Hexagonal
+# Ludo Hexagonal
 
 O Ludo Hexagonal é uma adaptação do tradicional jogo Ludo, também conhecido como Pachisi em suas origens históricas. Sua principal característica é o tabuleiro de seis lados, que permite a participação de até seis jogadores simultaneamente.
 
