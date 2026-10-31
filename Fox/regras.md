@@ -1,4 +1,4 @@
-# Regras do jogo Raposa e Ganso (Fox and Geese)
+# Raposa e Ganso (Fox and Geese)
 
 Raposa e Ganso é um jogo de estratégia para dois jogadores, de origem europeia, também conhecido como Fox and Geese. É um jogo assimétrico: os participantes possuem quantidades diferentes de peças e objetivos distintos.
 
