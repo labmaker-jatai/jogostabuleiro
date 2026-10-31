@@ -1,4 +1,4 @@
-# Xadrez Hexagonal — Regras completas
+# Xadrez Hexagonal
 
 O Xadrez Hexagonal é uma variante do xadrez tradicional jogada em um tabuleiro de formato hexagonal, com casas organizadas de modo que as peças possam se movimentar em seis direções principais, em vez das quatro direções diagonais e ortogonais do tabuleiro convencional.
 
